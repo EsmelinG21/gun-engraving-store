@@ -4,19 +4,19 @@ export default function Home() {
   const products = [
     {
       name: "Custom Pistol Engraving",
-      image: "/images/pistol-engraving.jpg",
+      image: "/images/May21,2025, 02_49_18 pm.png",
       description: "Intricate designs on handgun slides and frames.",
       link: "https://yourcheckoutlink.com/pistol",
     },
     {
       name: "AR-15 Engraving",
-      image: "/images/ar15-engraving.jpg",
+      image: "/images/May21,2025, 02_49_22 pm.png",
       description: "Tactical engravings for AR lower receivers and accessories.",
       link: "https://yourcheckoutlink.com/ar15",
     },
     {
       name: "Knife & Accessory Engraving",
-      image: "/images/knife-engraving.jpg",
+      image: "/images/May21,2025, 02_49_24 pm.png",
       description: "Custom patterns on knives, grips, and more.",
       link: "https://yourcheckoutlink.com/knife",
     },
