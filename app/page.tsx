@@ -30,7 +30,9 @@ export default function Home() {
           name="description"
           content="Veteran-owned gun engraving shop offering custom pistol, AR-15, and knife engravings."
         />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
+
       <main className="min-h-screen bg-gray-100 px-4 sm:px-10 py-10">
         {/* Hero Section */}
         <section className="text-center mb-12">
